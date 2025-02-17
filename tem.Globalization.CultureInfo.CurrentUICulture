@@ -1,0 +1,17 @@
+[33mcommit 5c536a5b1e7e1673e202c2abbdc39d8b0372f43c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: erkmen uzman <user.name>
+Date:   Thu Feb 13 22:07:11 2025 +0300
+
+    Added localization for Turkey
+
+[33mcommit 8434678df1d88be2ebaacde70eddc13fd27a3575[m
+Author: erkmen uzman <user.name>
+Date:   Sat Feb 8 18:41:50 2025 +0300
+
+    README file was added with this commit
+
+[33mcommit e61fbf2accdb926d41c7ef14bf6f17cd6509dd01[m
+Author: erkmen uzman <user.name>
+Date:   Sat Feb 8 18:40:16 2025 +0300
+
+    Initial commit for MvcMovie project
