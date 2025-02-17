@@ -4,5 +4,3 @@ To guide me through the process, I am following the Microsoft tutorial available
 
 [ASP.NET Core Tutorial](https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-9.0)
 
-:))
-
